@@ -1,0 +1,6 @@
+*.bsp
+libs
+.vs
+*.docx
+*.xlsx
+*x64
